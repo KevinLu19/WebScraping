@@ -35,3 +35,5 @@ python <file name> (This is temporary as there isn't a file that auto runs every
 * [Python] (https://www.python.org)
 * [Selenium] (https://selenium-python.readthedocs.io/installation.html) - Documentation for Selenium.
 * [Slickdeals Website] (https://slickdeals.net/) - website used for this project to scrape.
+* [MongoDB] (https://www.mongodb.com/)
+* [pymongo] (https://api.mongodb.com/python/current/) - Python used to interact with MongoDB
